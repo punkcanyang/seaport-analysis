@@ -3,7 +3,7 @@
 ![Seaport](Seaport-banner.png)
 
 
-#这篇文章大多翻译自Opensea的官方文件，还有蛮多坑的，后续实作时再慢慢补上
+##这篇文章大多翻译自Opensea的官方文件，还有蛮多坑的，后续实作时再慢慢补上
 
 
 - [Seaport Analysis](#seaport-analysis)
